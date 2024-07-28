@@ -1,4 +1,6 @@
+# random module is used to select random numbers between the given lower and upper bounds.
 import random
+# math module is used to perform mathematical operations.
 import math
 
 # Taking Inputs
